@@ -1,4 +1,4 @@
-# Projeto_SO_IST
-Projeto de Sistemas Operativos, cadeira de programação de 1º ano (segundo semestre) do curso de LEIC do Instituto Superior Técnico.
+# OS Project - IST
+Operating Systems project for the first-year programming course (second semester) of the LEIC program at Instituto Superior Técnico.
 
-Para mais informação consultar o [enunciado do projeto](https://github.com/tecnico-so/enunciado-proj-so-2022-23).
+For more information, see the.[project statement](https://github.com/tecnico-so/enunciado-proj-so-2022-23).
